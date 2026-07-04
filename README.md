@@ -13,6 +13,17 @@ The project transforms raw, unstructured customer data into a highly visual, int
 - **Real-Time Interactive Dashboard**: Built with Streamlit, featuring a modern UI, real-time predictions, and user history tracking.
 - **Business Strategy Engine**: Provides actionable recommendations (e.g., "Invest Heavily", "Automate & Monitor") based on predictive clustering.
 
+## 📸 Application Interface
+Below are screenshots of the actual Streamlit system in action:
+
+**Dashboard & User Interface:**
+![Dashboard Screenshot 1](figures/Picture1.png)
+![Dashboard Screenshot 2](figures/Picture2.png)
+
+**Prediction Engine & History:**
+![Prediction Screenshot 1](figures/3.9_one.png)
+![Prediction Screenshot 2](figures/3.9_two.png)
+
 ## 📂 Project Structure
 ```text
 ├── data/
