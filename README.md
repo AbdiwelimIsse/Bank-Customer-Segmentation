@@ -61,3 +61,7 @@ Below are screenshots of the actual Streamlit system in action:
 
 ## 🎓 Academic Context
 This project was developed as a Bachelor's Degree Graduation Project to demonstrate end-to-end Machine Learning deployment, from raw data engineering to a production-ready frontend interface.
+
+## © Copyright and License
+Copyright (c) 2026 **Abdiweli Isse Yusuf** and **Amran Abdullahi Hassan**. 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
