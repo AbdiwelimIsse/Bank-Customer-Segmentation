@@ -1,0 +1,13 @@
+Feature,🌟 High Engagement,🔄 Moderate Engagement,⚠️ Low Engagement
+age,43.5 (Peak earning years),41.1 (Mid-career),"40.3 (Youngest, early career)"
+balance,"HIGH  €4,352 (Strongest signal)","MED   €1,312 (Growing savings)",LOW   €689 (Constrained finances)
+balance (USD),"HIGH  $4,700","MED   $1,417",LOW   $744
+duration (sec),HIGH  592s (~10 min) — Deep interest,MED   242s (~4 min) — Some interest,LOW   183s (~3 min) — Minimal interest
+campaign,LOW   2.42 — Converts efficiently,LOWEST 2.34 — Easiest to reach,HIGH  2.88 — Requires most effort
+previous,"VERY LOW 0.25 — Fresh, unfatigued",VERY HIGH 5.83 — Loyal multi-contact,VERY LOW 0.16 — No prior history
+─── Composite Signals ───,─────────────────────────────,─────────────────────────────,─────────────────────────────
+Balance + Duration pattern,High balance AND long duration → Premium prospect,Moderate balance + medium duration → Loyalty pattern,Low balance AND short duration → Low opportunity
+Campaign efficiency,Converts after fewest calls → Best ROI,Fastest to answer — but slower to commit,Needs most calls — worst ROI
+Prior relationship depth,New to campaigns → not overcontacted,Highest multi-campaign loyalty depth,No prior engagement — cold prospect
+Financial capacity,Highest surplus capital available,Limited but growing financial capacity,Low surplus — structural financial barrier
+Engagement label,✅ HIGH-ENGAGEMENT,🔄 MODERATE-ENGAGEMENT,⚠️ LOW-ENGAGEMENT
