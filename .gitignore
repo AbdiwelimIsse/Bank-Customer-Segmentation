@@ -23,3 +23,7 @@ env/
 # (Optional) Ignore large datasets if you don't want data on GitHub
 # Un-comment the line below if your dataset is too big for GitHub
 # data/*.csv
+
+# Ignore Local Database and Passwords
+frontend/users.json
+frontend/prediction_history.csv
