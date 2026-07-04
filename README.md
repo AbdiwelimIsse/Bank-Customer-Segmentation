@@ -5,6 +5,7 @@ This project is an advanced Machine Learning pipeline designed for the banking s
 
 The project transforms raw, unstructured customer data into a highly visual, interactive **Streamlit Dashboard** that relationship managers can use in real-time to predict a customer's engagement level.
 
+![System Architecture](figures/system_architecture.png)
 ## 🌟 Key Features
 - **Unsupervised Machine Learning**: K-Means clustering algorithm trained on 45,211 customers.
 - **Automated Data Pipeline**: Handles outlier capping, standardization, and missing value management.
@@ -38,9 +39,14 @@ The project transforms raw, unstructured customer data into a highly visual, int
    ```
 
 ## 📊 The 3 Customer Segments
+![Customer Segment Distribution](figures/customer_segment_distribution.png)
+
 1. **High-Engagement**: High balances (~$4,700), high patience on calls (nearly 10 mins). These are premium targets.
 2. **Moderate-Engagement**: Loyal customers (~$1,400) who require nurturing to graduate to premium status.
 3. **Low-Engagement**: The majority segment (~$700) with short attention spans. Best suited for automated digital marketing.
+
+### Spatial Cluster Separation
+![PCA Scatter Plot](figures/pca_scatter_plot.png)
 
 ## 🎓 Academic Context
 This project was developed as a Bachelor's Degree Graduation Project to demonstrate end-to-end Machine Learning deployment, from raw data engineering to a production-ready frontend interface.
